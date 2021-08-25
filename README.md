@@ -1,5 +1,7 @@
 # Coffee_Machine
-A simple Python Project with All basic functionalities of a Coffee Machine
+A Digital Version of a Coffee Maachine with all its functionalities:
+1. to check if ingredients are available
+2. to make sure Customer pays correct amount and give them back the change
 
 ![Snip 1 Coffee_Machine](https://user-images.githubusercontent.com/66404651/130729544-49885f8a-c6de-4b01-9c3d-e4f95ea79f72.PNG)
 
